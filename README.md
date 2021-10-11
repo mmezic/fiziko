@@ -1,3 +1,5 @@
+This is my copy of a github repository which contains the most epic metapost code in the whole universe. 
+
 # fiziko
 
 ![pulley](https://user-images.githubusercontent.com/7447349/45599924-c3a3f700-b9fc-11e8-9996-f27555c4ded5.png)
