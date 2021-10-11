@@ -1,4 +1,4 @@
-This is my copy of a github repository which contains the most epic metapost code in the whole universe. 
+This is my copy of a github repository which contains the most epic metapost code in the whole universe!
  
 # fiziko
 
